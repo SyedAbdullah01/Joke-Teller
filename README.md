@@ -25,6 +25,6 @@ If you want to run the Joke Teller locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/joke-teller.git
+   git clone https://github.com/SyedAbdullah01/joke-teller.git
 2. Open the `index.html` file in your browser.
 3. Click the "Tell Me A Joke" button to enjoy a laugh.

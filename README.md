@@ -8,6 +8,7 @@ A simple and entertaining web application that fetches random jokes from an API 
 - [Try It Live](#try-it-live)
 - [Features](#features)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 
 ## Try It Live
 
@@ -28,3 +29,14 @@ If you want to run the Joke Teller locally on your machine, follow these steps:
    git clone https://github.com/SyedAbdullah01/joke-teller.git
 2. Open the `index.html` file in your browser.
 3. Click the "Tell Me A Joke" button to enjoy a laugh.
+
+## Technologies Used
+
+- **HTML**: Used for structuring the web page.
+- **CSS**: Used for styling the user interface and button animations.
+- **JavaScript**: Utilized for fetching jokes from the API and implementing text-to-speech functionality.
+- **Joke API**: Utilized to fetch random jokes for the application.
+- **Web Speech API**: Used for text-to-speech functionality to read the jokes aloud.
+- **GitHub**: The codebase is hosted and shared on GitHub.
+- **Netlify**: Deployed the live Joke Teller application.
+
